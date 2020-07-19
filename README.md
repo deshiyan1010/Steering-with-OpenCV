@@ -8,4 +8,4 @@ Using OpenCV to gather steering wheel angle and translate it to game to act it a
 4. Search for vJoy Configuration in you PC and enable vJoy.
 5. Run the program and play your game.
 
-![Demo](ezgif.com-video-to-gif (1).gif)
+![Demo](demo/ezgif.com-video-to-gif (1).gif)
